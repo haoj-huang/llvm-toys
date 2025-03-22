@@ -1,0 +1,4 @@
+#ifndef CHECK_AND_OUT
+#define CHECK_AND_OUT(FUNCNAME)
+#endif
+CHECK_AND_OUT("sum")
